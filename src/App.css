@@ -1,0 +1,51 @@
+.p-tran {
+  transition: all ease-out 0.3s !important;
+}
+
+.p-card-hover {
+  transition: all ease-in-out 0.2s;
+}
+.p-card-hover:hover {
+  box-shadow: 1px 1px 6px 0px #ccc;
+}
+
+@media screen and (max-width: 768px) {
+  .p-img-profile {
+    height: auto !important;
+    width: auto !important;
+  }
+  #navbarSupportedContent {
+    justify-content: center !important;
+  }
+  .collapse:not(.show) {
+    display: none;
+  }
+}
+@media screen and (min-width: 768px) {
+  .p-img-profile {
+    height: 6rem !important;
+    width: auto !important;
+  }
+
+  .p-card-hover:hover {
+    transform: scale(1.1);
+  }
+}
+
+/* #navbarSupportedContent {
+  flex-flow: row-reverse nowrap;
+
+  align-items: center;
+  display: flex;
+} */
+.contact-edit .fa-pencil:hover {
+  color: #000 !important;
+  transition: ease-in-out 0.1s;
+  transform: scale(2.1);
+}
+
+.contact-edit .fa-times:hover {
+  color: #f00 !important;
+  transition: ease-in-out 0.1s;
+  transform: scale(2.1);
+}
