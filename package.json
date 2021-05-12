@@ -2,7 +2,7 @@
   "name": "contactmanager2",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://thenerdone.github.io/contactmanager-redux",
+  "homepage": "https://thenerdone.github.io/contactmanager_redux/",
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
