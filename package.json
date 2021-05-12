@@ -2,7 +2,7 @@
   "name": "contactmanager2",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://thenerdone.github.io/contactmanager-redux/",
+  "homepage": "https://thenerdone.github.io/contactmanager-redux",
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
@@ -19,8 +19,7 @@
     "uuid": "^3.3.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
