@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/contactmanager-redux/static/css/main.55a60721.chunk.css",
-    "main.js": "/contactmanager-redux/static/js/main.1d91fd3d.chunk.js",
-    "main.js.map": "/contactmanager-redux/static/js/main.1d91fd3d.chunk.js.map",
-    "runtime-main.js": "/contactmanager-redux/static/js/runtime-main.8d1f349c.js",
-    "runtime-main.js.map": "/contactmanager-redux/static/js/runtime-main.8d1f349c.js.map",
-    "static/css/2.9dc35fa5.chunk.css": "/contactmanager-redux/static/css/2.9dc35fa5.chunk.css",
-    "static/js/2.57e8b912.chunk.js": "/contactmanager-redux/static/js/2.57e8b912.chunk.js",
-    "static/js/2.57e8b912.chunk.js.map": "/contactmanager-redux/static/js/2.57e8b912.chunk.js.map",
-    "index.html": "/contactmanager-redux/index.html",
-    "static/css/2.9dc35fa5.chunk.css.map": "/contactmanager-redux/static/css/2.9dc35fa5.chunk.css.map",
-    "static/css/main.55a60721.chunk.css.map": "/contactmanager-redux/static/css/main.55a60721.chunk.css.map",
-    "static/js/2.57e8b912.chunk.js.LICENSE.txt": "/contactmanager-redux/static/js/2.57e8b912.chunk.js.LICENSE.txt",
-    "static/media/avatar-circle.a39e1bc0.png": "/contactmanager-redux/static/media/avatar-circle.a39e1bc0.png"
+    "main.css": "/contactmanager_redux/static/css/main.55a60721.chunk.css",
+    "main.js": "/contactmanager_redux/static/js/main.79ebaeb0.chunk.js",
+    "main.js.map": "/contactmanager_redux/static/js/main.79ebaeb0.chunk.js.map",
+    "runtime-main.js": "/contactmanager_redux/static/js/runtime-main.d25c8090.js",
+    "runtime-main.js.map": "/contactmanager_redux/static/js/runtime-main.d25c8090.js.map",
+    "static/css/2.9dc35fa5.chunk.css": "/contactmanager_redux/static/css/2.9dc35fa5.chunk.css",
+    "static/js/2.57e8b912.chunk.js": "/contactmanager_redux/static/js/2.57e8b912.chunk.js",
+    "static/js/2.57e8b912.chunk.js.map": "/contactmanager_redux/static/js/2.57e8b912.chunk.js.map",
+    "index.html": "/contactmanager_redux/index.html",
+    "static/css/2.9dc35fa5.chunk.css.map": "/contactmanager_redux/static/css/2.9dc35fa5.chunk.css.map",
+    "static/css/main.55a60721.chunk.css.map": "/contactmanager_redux/static/css/main.55a60721.chunk.css.map",
+    "static/js/2.57e8b912.chunk.js.LICENSE.txt": "/contactmanager_redux/static/js/2.57e8b912.chunk.js.LICENSE.txt",
+    "static/media/avatar-circle.a39e1bc0.png": "/contactmanager_redux/static/media/avatar-circle.a39e1bc0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d1f349c.js",
+    "static/js/runtime-main.d25c8090.js",
     "static/css/2.9dc35fa5.chunk.css",
     "static/js/2.57e8b912.chunk.js",
     "static/css/main.55a60721.chunk.css",
-    "static/js/main.1d91fd3d.chunk.js"
+    "static/js/main.79ebaeb0.chunk.js"
   ]
 }
