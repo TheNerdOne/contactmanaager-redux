@@ -5,7 +5,7 @@ const initialState = {
   singleContact: {}
 };
 
-export default function(state = initialState, action) {
+export const contactReducer = (state = initialState, action) => {
   switch (action.type) {
     case GET_CONTACTS:
       return {
